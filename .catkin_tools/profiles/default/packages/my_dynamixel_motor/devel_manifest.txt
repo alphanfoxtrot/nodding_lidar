@@ -1,0 +1,5 @@
+my_dynamixel_motor
+/home/shibin1995/Documents/final_ws/devel/.private/my_dynamixel_motor/cmake.lock /home/shibin1995/Documents/final_ws/devel/./cmake.lock
+/home/shibin1995/Documents/final_ws/devel/.private/my_dynamixel_motor/share/my_dynamixel_motor/cmake/my_dynamixel_motorConfig.cmake /home/shibin1995/Documents/final_ws/devel/share/my_dynamixel_motor/cmake/my_dynamixel_motorConfig.cmake
+/home/shibin1995/Documents/final_ws/devel/.private/my_dynamixel_motor/share/my_dynamixel_motor/cmake/my_dynamixel_motorConfig-version.cmake /home/shibin1995/Documents/final_ws/devel/share/my_dynamixel_motor/cmake/my_dynamixel_motorConfig-version.cmake
+/home/shibin1995/Documents/final_ws/devel/.private/my_dynamixel_motor/lib/pkgconfig/my_dynamixel_motor.pc /home/shibin1995/Documents/final_ws/devel/lib/pkgconfig/my_dynamixel_motor.pc

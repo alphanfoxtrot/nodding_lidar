@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>laserscan_to_pointcloud2_conversion</name>
+  <version>1.0.0</version>
+  <description>convert laserscan type to pointcloud2 and publish it out</description>
+  <maintainer email="bensonkuan1990@gmail.com">Benson Kuan</maintainer>
+  <license>TODO</license>
+  <author email="bensonkuan1990@gmail.com">Benson Kuan</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!--Other depends-->
+  <depend>roscpp</depend>
+  <depend>laser_geometry</depend>
+  <depend>sensor_msgs</depend> 
+  <depend>tf2</depend>
+  <depend>tf2_ros</depend>
+  <depend>tf2_msgs</depend>
+  <depend>tf2_sensor_msgs</depend>
+</package>

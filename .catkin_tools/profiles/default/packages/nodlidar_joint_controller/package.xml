@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>nodlidar_joint_controller</name>
+  <version>1.0.0</version>
+  <description>Publish velocity to control movement of nodding lidar</description>
+  <maintainer email="bensonkuan1990@gmail.com">Benson Kuan</maintainer>
+  <license>TODO</license>
+  <author email="bensonkuan1990@gmail.com">Benson Kuan</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!--Other depends-->
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>sensor_msgs</depend>
+
+</package>

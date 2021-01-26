@@ -1,0 +1,6 @@
+devel_space: /home/shibin1995/Documents/final_ws/devel
+install: false
+install_space: /home/shibin1995/Documents/final_ws/install
+profile: default
+source_space: /home/shibin1995/Documents/final_ws/src
+workspace: /home/shibin1995/Documents/final_ws

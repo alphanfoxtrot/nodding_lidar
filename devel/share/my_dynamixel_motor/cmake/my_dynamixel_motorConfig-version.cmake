@@ -1,0 +1,1 @@
+/home/shibin1995/Documents/final_ws/devel/.private/my_dynamixel_motor/share/my_dynamixel_motor/cmake/my_dynamixel_motorConfig-version.cmake

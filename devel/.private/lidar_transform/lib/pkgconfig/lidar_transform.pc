@@ -1,0 +1,8 @@
+prefix=/home/shibin1995/Documents/final_ws/devel/.private/lidar_transform
+
+Name: lidar_transform
+Description: Description of lidar_transform
+Version: 1.0.0
+Cflags: -I/home/shibin1995/Documents/final_ws/src/nodlidar_controller_and_transform/lidar_transform/include
+Libs: -L${prefix}/lib -llidar_transform_core
+Requires: roscpp std_msgs geometry_msgs

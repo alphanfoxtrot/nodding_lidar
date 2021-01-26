@@ -1,0 +1,5 @@
+Symlinking /home/shibin1995/Documents/final_ws/devel/share/laser_geometry/cmake/laser_geometryConfig.cmake
+Symlinking /home/shibin1995/Documents/final_ws/devel/share/laser_geometry/cmake/laser_geometryConfig-version.cmake
+Symlinking /home/shibin1995/Documents/final_ws/devel/lib/liblaser_geometry.so
+Symlinking /home/shibin1995/Documents/final_ws/devel/lib/pkgconfig/laser_geometry.pc
+Symlinking /home/shibin1995/Documents/final_ws/devel/lib/python2.7/dist-packages/laser_geometry/__init__.py

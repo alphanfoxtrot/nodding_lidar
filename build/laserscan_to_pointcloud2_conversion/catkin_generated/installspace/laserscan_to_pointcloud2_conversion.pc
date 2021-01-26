@@ -1,0 +1,8 @@
+prefix=/home/shibin1995/Documents/final_ws/install
+
+Name: laserscan_to_pointcloud2_conversion
+Description: Description of laserscan_to_pointcloud2_conversion
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -llaserscan_to_pointcloud2_conversion_core
+Requires: roscpp sensor_msgs tf2 tf2_ros tf2_msgs tf2_sensor_msgs laser_geometry

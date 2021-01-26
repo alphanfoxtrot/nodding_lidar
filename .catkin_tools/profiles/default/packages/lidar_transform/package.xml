@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>lidar_transform</name>
+  <version>1.0.0</version>
+  <description>Publish transform of the lidar with respect to the worl frame</description>
+  <maintainer email="bensonkuan1990@gmail.com">Benson Kuan</maintainer>
+  <license>TODO</license>
+  <author email="bensonkuan1990@gmail.com">Benson Kuan</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <!--Other depends-->
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+
+</package>

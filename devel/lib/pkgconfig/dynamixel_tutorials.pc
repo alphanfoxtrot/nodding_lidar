@@ -1,0 +1,1 @@
+/home/shibin1995/Documents/final_ws/devel/.private/dynamixel_tutorials/lib/pkgconfig/dynamixel_tutorials.pc

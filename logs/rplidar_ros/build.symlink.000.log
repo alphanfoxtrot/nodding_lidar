@@ -1,0 +1,5 @@
+Symlinking /home/shibin1995/Documents/final_ws/devel/share/rplidar_ros/cmake/rplidar_rosConfig.cmake
+Symlinking /home/shibin1995/Documents/final_ws/devel/share/rplidar_ros/cmake/rplidar_rosConfig-version.cmake
+Symlinking /home/shibin1995/Documents/final_ws/devel/lib/rplidar_ros/rplidarNode
+Symlinking /home/shibin1995/Documents/final_ws/devel/lib/rplidar_ros/rplidarNodeClient
+Symlinking /home/shibin1995/Documents/final_ws/devel/lib/pkgconfig/rplidar_ros.pc

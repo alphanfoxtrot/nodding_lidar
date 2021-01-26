@@ -1,0 +1,5 @@
+Symlinking /home/shibin1995/Documents/final_ws/devel/share/nodlidar_joint_controller/cmake/nodlidar_joint_controllerConfig-version.cmake
+Symlinking /home/shibin1995/Documents/final_ws/devel/share/nodlidar_joint_controller/cmake/nodlidar_joint_controllerConfig.cmake
+Symlinking /home/shibin1995/Documents/final_ws/devel/lib/libnodlidar_joint_controller_core.so
+Symlinking /home/shibin1995/Documents/final_ws/devel/lib/nodlidar_joint_controller/nodlidar_joint_controller
+Symlinking /home/shibin1995/Documents/final_ws/devel/lib/pkgconfig/nodlidar_joint_controller.pc

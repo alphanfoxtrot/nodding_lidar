@@ -1,0 +1,8 @@
+prefix=/home/shibin1995/Documents/final_ws/devel/.private/my_dynamixel_motor
+
+Name: my_dynamixel_motor
+Description: Description of my_dynamixel_motor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

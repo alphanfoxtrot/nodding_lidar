@@ -1,0 +1,1 @@
+/home/shibin1995/Documents/final_ws/devel/.private/dynamixel_msgs/share/roseus/ros/dynamixel_msgs/msg/MotorState.l

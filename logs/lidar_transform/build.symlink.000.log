@@ -1,0 +1,5 @@
+Symlinking /home/shibin1995/Documents/final_ws/devel/share/lidar_transform/cmake/lidar_transformConfig.cmake
+Symlinking /home/shibin1995/Documents/final_ws/devel/share/lidar_transform/cmake/lidar_transformConfig-version.cmake
+Symlinking /home/shibin1995/Documents/final_ws/devel/lib/liblidar_transform_core.so
+Symlinking /home/shibin1995/Documents/final_ws/devel/lib/lidar_transform/lidar_transform
+Symlinking /home/shibin1995/Documents/final_ws/devel/lib/pkgconfig/lidar_transform.pc

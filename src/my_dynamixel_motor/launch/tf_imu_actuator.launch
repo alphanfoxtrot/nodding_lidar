@@ -1,0 +1,10 @@
+<?xml version="utf-8"?>
+
+<launch>
+	<node pkg="tf" name="tf_imu_actuator" type="static_transform_publisher" args="0.0001934 0.0007506 0.00073 0 0 0 imu_link actuator 100"/>
+	<node pkg="tf" name="tf_world_imu" type="static_transform_publisher" args="0 0 0 0 0 0 world imu_link 100"/>
+
+	<node pkg="my_dynamixel_motor" name="actuator_laser_tf_node" type="actuator_laser_tf_pub.py" output="screen"/>
+	<node pkg="my_dynamixel_motor" name="continuous_rotation_node" type="continuous_rotation.py" output="screen"/>
+	<node pkg="my_dynamixel_motor" name="convert_laser_to_pc_node" type="convert_laser_to_pointcloud.py" output="screen"/>
+</launch>
